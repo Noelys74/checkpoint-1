@@ -7,3 +7,5 @@
 ![CaptureUUID](https://github.com/user-attachments/assets/c709be66-bebb-4308-82c1-2cd618d8d189)
 ![CapturemontageUUID](https://github.com/user-attachments/assets/6ba692a1-e90e-4e87-8273-4a023a35190d)
 
+![Captureswap](https://github.com/user-attachments/assets/4182d35a-a4f4-42ae-838b-b9e4709b2f5a)
+![Capturelabelswap](https://github.com/user-attachments/assets/5b64bf29-85eb-443e-a48f-5b6eaf1668d7)
