@@ -29,11 +29,11 @@ wilder@Ubuntu:~$ jobs -l
 [2]  37971 En cours d'exécution   xeyes &  
 [3]- 37972 En cours d'exécution   sleep  
 
-jobs -l | awk 'NR==1'
+fg %1
 
 #### -7 Quels matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI ? Donne leurs spécificités.
-Couche 2 => Liaison Adressage physique (adresse MAC)  
-Couche 3 => Détermine le parcours des données et l'adressage logique (adresse IP)  
+Couche 2 => les commutateurs (switches) et les ponts (bridges) 
+Couche 3 => Les routeurs
 
 #### -8 Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 cd => Set-Location  
